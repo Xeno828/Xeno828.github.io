@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Josh Bruen
+title: Test Automation Engineer
+email: jbruen17@gmail.com
+website: www.github.com/Xeno828
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: JustJoshnRound
+github_username:  Xeno828
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: josh.bruen
+linkedin_username: JoshBruen
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Josh and I'm a Test automation engineer. As well as performing, writting and maintaining automation scenarios I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>BDD Language</mark> and <mark>Java</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
+  Alongside my interests in Automation and web design some of my other interests and hobbies are:
+   - Anime
    - Fortnite
-   - Knitting
+   - Completing Adventure runs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
